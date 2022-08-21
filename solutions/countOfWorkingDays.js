@@ -26,6 +26,4 @@ const countOfWorkingDays = (firstDate, secondDate) => {
   return acc
 }
 
-// countOfWorkingDays(firstDate, secondDate);
-
 export default countOfWorkingDays
